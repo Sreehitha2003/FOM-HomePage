@@ -1,0 +1,25 @@
+.navbar-brand h2 {
+    display: inline-block;
+    margin: 0 1rem;
+  }
+  .fom{
+    color: white;
+    margin: auto;
+ }
+  .navbar {
+    background-color: rgb(215, 192, 208);
+    font-family: Papyrus, fantasy;
+    margin: auto;
+    padding: 1% 0;
+    width: 100%;
+    display: flex;
+    position: fixed;
+  }
+ 
+  .icon{
+    color: white;
+    padding: 0 10px;
+  }
+  .icon:hover{
+    cursor: pointer;
+  }

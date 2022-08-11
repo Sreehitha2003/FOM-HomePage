@@ -1,0 +1,40 @@
+.image{
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    display: grid;
+    place-items: center;
+}
+.quotes{
+   position: absolute;
+   bottom: 50%;
+   font-size: x-large;
+   left: 45%;
+   color:rgb(112, 112, 108);
+   font-family: 'Droid Sans', 'Chilanka';
+}
+.mask{
+    padding: 2% 0 10px 0;
+}
+.yoga{
+    margin: 20px 30px 30px 0;
+    border: 1px grey;
+    border-radius: 10px;
+}
+.yoga:hover{
+   cursor: pointer;
+}
+.text{
+  font-size: large;
+  margin: 5px 0 10px 0;
+}
+.icons{
+    padding: 10px 20px 20px 0;
+}
+.icons:hover{
+    cursor: pointer;
+}
+.center{
+    width: 100%;
+    text-align: center;
+}
